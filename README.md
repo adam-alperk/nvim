@@ -1,1 +1,1 @@
-#adigoj neovim config
+# adigoj neovim config
